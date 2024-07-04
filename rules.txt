@@ -1,0 +1,11 @@
+👾 Hangman Game Programming Rules 👾
+
+1. The game must be Hangman (obviously). This means implementing the good old guessing game where wrong guesses bring you to your untimely demise.
+
+2. The secret word to guess is "banana." That's right, just a simple, humble banana. ill make sure the game can handle this yellow mischief-maker with grace.
+
+3. Players get 5 lives. Each wrong guess consumes one life. Make it count, or it’s game over. After all, even simplicity has its consequences.
+
+Thought there would be more rules? Nope, just these three gems. Simplicity is key, but don’t underestimate the challenge of coding a fruit-related existential crisis.
+
+PS: i'll try to keep my code clean. No bananas were harmed, but my syntax might be.
