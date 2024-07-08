@@ -6,6 +6,8 @@
 
 3. Players get 5 lives. Each wrong guess consumes one life. Make it count, or it’s game over. After all, even simplicity has its consequences.
 
-Thought there would be more rules? Nope, just these three gems. Simplicity is key, but don’t underestimate the challenge of coding a fruit-related existential crisis.
+4. No GPT or any kind of code completion. JUST DOCUMENTATION.
+
+Thought there would be more rules? Nope, just these t̶h̶r̶e̶e̶ four gems. Simplicity is key, but don’t underestimate the challenge of coding a fruit-related existential crisis.
 
 PS: i'll try to keep my code clean. No bananas were harmed, but my syntax might be.
